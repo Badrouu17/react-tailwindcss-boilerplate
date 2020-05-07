@@ -16,7 +16,5 @@
     "sourceType": "module"
   },
   "plugins": ["react"],
-  "rules": {
-    "quotes": ["error", "backtick"]
-  }
+  "rules": {}
 }
